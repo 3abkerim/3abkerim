@@ -21,8 +21,8 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Doctrine](https://img.shields.io/badge/Doctrine-00758F?style=for-the-badge&logo=doctrine&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Doctrine](https://img.shields.io/badge/Doctrine-00758F?style=for-the-badge&logo=doctrine&logoColor=white)
 ![DQL](https://img.shields.io/badge/DQL-00758F?style=for-the-badge&logo=doctrine&logoColor=white)
 ![DBAL](https://img.shields.io/badge/DBAL-00758F?style=for-the-badge&logo=doctrine&logoColor=white)
 
